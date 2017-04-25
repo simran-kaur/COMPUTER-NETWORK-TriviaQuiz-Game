@@ -1,0 +1,103 @@
+What is the name of Harry's uncle? (first and last name)
+A.Vernon Dursley  B.Dudley Dursley  C.Sirius Black  D.Rubeus Hagrid
+$Who is it: The Head of Hufflepuff and Herbology teacher (Title and last name)
+A.Professor Sprout  B. Professor McGonagall  C.Professor Flitwick  D.Professor Snape
+$Who is the Head of Ravenclaw that teaches Charms? (title and last name)
+A.Professor Sprout  B. Professor McGonagall  C.Professor Flitwick  D.Professor Snape
+$Who is the poltergeist at Hogwarts?
+A.Rubeus Hagrid  B.Argus Filch  C.Peeves  D.Severus Snape 
+$What is the name of the caretaker at Hogwarts? 
+A.Rubeus Hagrid  B.Argus Filch  C.Peeves  D.Severus Snape 
+$What is the name of Mr. Filch's cat?
+A.Mrs. Norris  B.Norbert  C.Madam Rosmerta  D.Fluffy
+$What is the name of the twin that dies in the last book? (first and last name)
+A.Fred weasley B. George Weasley  C.Bill Weasley  D. Arthur Weasley
+$What is the name of the twin that loses his ear in the last book? (first and last name)
+A.Fred weasley B. George Weasley  C.Bill Weasley  D. Arthur Weasley
+$What is the name of the Weasley that (from book four until his apology in book seven) follows the ministry like a prat? (first name only)
+A.Fred weasley B.Charlie Weasley  C.Bill Weasley  D. Percy Weasley
+$What is the name of the Weasley that works with dragons? (first name only)
+A.Fred weasley B.Charlie Weasley  C.Bill Weasley  D. Arthur Weasley
+$What is the name of Ron's brother who works for Gringotts?(first and last name)
+A.Fred weasley B. George Weasley  C.Bill Weasley  D. Arthur Weasley
+$What is the name of Ron's father? (first and last name)
+A.Fred weasley B. George Weasley  C.Bill Weasley  D. Arthur Weasley
+$What is the occupation of Hermione's parents?
+A.Engineers  B.Dentists  C.Consultants  D.Teachers
+$What is the name of the wizards prison?
+A.Hogwarts  B.Leaky Cauldron  C.Azkaban  D.Durmstrang
+$What are the creatures who suck the soul out of people called?
+A.Dementor  B.Trolls  C.DeathEaters  D.Inferi
+$What is the name of the sport that all wizards love?
+A.Soccer  B.Quidditch  C.Triwizard Tournament  D.None of These
+$What is the name of the house "where dwell the great at heart"?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$What is the name of the "cunning" house where people who "will do anything to achieve their ends" are sorted?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$What is the name of the house that Luna Lovegood is in?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$What is the name for the house for people who didn't fit in any of the other houses?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$What is the name of Ginny's mom? (first and last name)
+A.FleurWeasley  B.Bella Weasley  C.Minerva Weasley  D.Molly Weasley
+$What is the name of the platform the Hogwarts Express leaves from? (numerical)
+A.9 ½  B.10 ¼  C.9 ¾  D.10 ¾ 
+$What house did the Sorting Hat suggest to Harry?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$If she was not put in Gryffindor, what house would Hermione Granger probably be in?
+A.Gryffindor  B.Ravenclaw  C. Hufflepuff  D.Slytherin  
+$What did Katie Bell touch that put her in Saint Mungo’s in year 6? 
+A.Opal Necklace  B.Ruby Ring  C.Emerald Tiara  D.Elder wand
+$What is the last name of the three brothers who originally owned the Deathly Hallows?
+A.Peverell  B. Potter  C.Dumbledore  D.Grindelwald
+$What were the three words that the Sixth Year students memorized to apparate? 
+A.Apparate Disapparate Reapparate  B.Destination, Determination, Deliberation  C.Grits Guts Glory  D.None of these
+$What is the name of the goons that follow Malfoy around as bodyguards?
+A.Percy and Bill  B. Fred and George  C.Crabbe and Goyle  B.James and Sirius
+$What is the term used for bodies bewitched to do as a Dark wizard bids?
+A.Dementors  B.Trolls  C.DeathEaters  D.Inferi
+$What is a ghost? (According to Severus Snape)
+A.Bewitched corpses B.The imprint of a departed soul  C.Souless creature  D.Reflection of a person
+$What is the name of the landlord of the Leaky Cauldrons?
+A.Tom  B.Hagrid  C.Mr.Burke  D. Mr.Ludo Bagman
+$What is the name of Draco's son?
+A.Hugo  B.Victor  C.Scorpius  D.Albus
+$What is Mr. Malfoy's first name?
+A.Draco  B.Lucius  C.Fenrir  D.David
+$What did Hermione squeeze in Fred and George's room that punched her?
+A.Snitch  B.Extendible Ears  C.Peeves  D.Telescope
+$What is the name of the attractive and curvy bartender for whom Ron had always nursed a soft spot?
+A.Angelina Johnson  B.Katie Bell  C.Madam Rosmerta  D.Mrs.McGonagall
+$What was the name of Hagrid's half-giant brother?
+A.Norbert  B.Aragog  C.Fluffy  D.Grawp
+$When Fred and George stole the Marauder's Map from Filch's office, what was the file cabinet labled?
+A. Confiscated and Highly Dangerous  B.Confiscated  C.Extremely Dangerous and Destructive  D.Destructive
+$What is the name of the sweet that makes you spew?
+A.Skiving Snackboxes  B.Puking Pastils  C.Fanged Frisbee  D.Whizz Poppers
+$What did Lavender Brown call Ron?
+A.Won-won  B.Honey Pie  C.Weasley King  D.All of These
+$Who did Ron suddenly have an infatuation for, after accidentally eating some love potion meant for Harry? (first and last name)
+A.Hermione Granger  B.Lavender Brown  C.Romilda Vane  D.Parvati Patel
+$Who in the 3rd year class wrote an essay on werewolves?
+A.Dean Thomas  B.Ronald Weasley  C.Hermione Granger  D.Lavender Brown
+$What is the name of the werewolf who bit Lupin? (First and last name)
+A.Lucius Malfoy  B.Fenrir Greyback  C.Severus Snape  D.Peter Pettigrew
+$What is the theme of the tapestry near the Room of Requirement?
+A. Merpeople  B.Quidditch  C.Unicorn  D.Trolls
+$Fill in the blank: "Ooohh, look! It's a ________________ _____________!"- Luna
+A.Blibbering Humdinger  B.Gulping Plimpy  C.Moon Frog  D.Umgubular Slashkilter
+$Who wrote “A History of magic”? 
+A.Martha Weasley  B.Bathilda Bagshot  C.Rita Skeeter  D.Albus Dumbledore
+$Who was harry’s first crush? 
+A. Hermione Granger  B.Angelina Johnson  C.Cho Chang  D.Lavender Brown
+$How much older is Albus Dumbledore than Aberforth Dumbledore?
+A.3 years  B. 5 years C.8years D. 10years
+$What is William Weasley’s middle name?
+A.Bilius B. George C. Charles D. Arthur
+$What Gryffindor does Fenrir Greyback bite in the Battle of Hogwarts?
+A.Lavender B.Padma C.Hermione D.Colin
+$What message does the golden snitch convey to Harry?
+A. I close at the open B.I hold the ring C.I open at the close D.I hold the truth
+$What is the nearest village to the Borough?
+A. Tottenham B.Ottery St. Catchpole C.Godric’s Hollow D. Little Winging
+$

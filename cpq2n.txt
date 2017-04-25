@@ -1,0 +1,151 @@
+How many values can be represented by a single byte ?
+A. 4    B. 8
+C. 16  D. 256
+$A prescribed set of well-defined instructions for solving mathematical problems is called _______
+A. a compiler     B. a description
+C. a code   D. an algorithm
+$Transformation of Input into output is performed by ____________
+A. Peripherals    B. Memory
+C. The CPU  D. The Input-Output unit
+$For creating a document, you use ______________ command at File Menu.
+A. Open     B. New
+C. Save     D. Close
+$What is equipment used to capture information and commands ?
+A. Output device  B. Storage device
+C. Input device   D. Telecommunication device
+$_____________  contains specific rules and words that express the logical steps of an algorithm.
+A. programming structure      B. programming language
+C. syntax   D. logic chart
+$The physical components of a computer system __________
+A. software B. hardware
+C. control unit   D. ALU
+$What is the name given to the organized collection of software that controls the overall operation of a computer?
+A. Working System  B. Operating System 
+C. Controlling System  D. Peripheral System
+$Device drivers are _____________
+A. Tiny power cords for external storage devices      B. Small, special-purpose programs
+C. Substitutes for operating system D. The innermost part of the operating system
+$Which among following is not an input device ?
+A. Printer  B. Mouse
+C. Scanner  D. Keyboard
+$Binary number system consists of ?
+A. Depends computer to computer     B. All alphanumeric characters
+C. 0's and 1's only     D. None of these
+$The term MIPS refers to _____?
+A. megabytes of instructions per seconds   B. multiple instructions per second
+C. millions input processor set  D. millions of instructions per second
+$Disk Operating System (DOS) was designed to work with which of the following input device ?
+A. Mouse    B. JoyStick
+C. Xbox     D. Keyboard
+$A switch in a network is used to ?
+A. It is used to connect systems on network     B. It is used to boot systems remotely
+C. It is used to stop hacking D. It is used to stop viruses
+$Which among following is odd one ?
+A. Spyware  B. Hub
+C. Malware  D. Virus
+$Which among following is not a logical gate ?
+A. NOR      B. NAT
+C. AND      D. XOR
+$Which language is related to database ?
+A. Perl     B. Sql
+C. Php      D. Java
+$Which kind of files have .mpg extension ?
+A. Image    B. Video
+C. Audio    D. Flash
+$Which is a type of ROM
+A. PROM     B. EPROM
+C. EEPROM   D. All of above
+$A computer must have ?
+A. Microsoft office     B. Operating System
+C. Internet connectivity      D. An antivirus
+$Redhat Linux is ?
+A. An operating system  B. An antivirus
+C. A firewall software  D. A inventory management software
+$Which among following is not a programming language ?
+A. Php      B. Perl
+C. IEEE     D. Java
+$Compiler is related to ?
+A. Programming Language B. DOS
+C. Internet D. Database
+$Word "INTERPRETER" is related to ?
+A. Address resolution   B. IP address ranges
+C. Programming Languages      D. None of above
+$DPI means ?
+A. Dots per Inch  B. Dots processing Inch
+C. Diagram processing Inch    D. Diagram per Inch
+$Which among following is not necessary for working of a standalone computer ?
+A. Operating System     B. RAM
+C. LAN card D. Hard Drive
+$Which among the following defines TB? 
+A. Teri byte   B. Typo bytes
+C. Tera byte D. Tetra bytes
+$Firewall is ?
+A. a hardware     B. can be a hardware as well as software
+C. can neither be a hardware nor a software     D. a software
+$What is full form of MBR ?
+A. Master Boot Record   B. Mini Boot Record
+C. Master Boot Race     D. Master Break Record
+$What is algorithm ?
+A. Type of programming language     B. Application code
+C. Step by step procedure for calculations      D. None of above
+$DNS is the abbreviation of ?
+A. Domain Network Service     B. Domain Name System
+C. Dynamic Network System     D. Domain Name Service
+$What is motherboard ?
+A. Keyboard otherwise known as motherboard      B. A circuit board which connects all the elements
+C. It is a type of file server      D. Scanner and other things are part of motherboard
+$Which is not a network topology ?
+A. Bus      B. Ring
+C. Car      D. Star
+$What was originally called the "imitation game" by its creator?
+A. LISP     B. The Logic Theorist
+C. The Turing Test    D.Cybernetics
+$Who is the founder of Apple Computers ?
+A. Bill Gates     B. Stephane Lyndse
+C. Steve Jobs     D. John McCarthy
+$Which among following is the lowest form of Computer Language ?
+A. Assembly Language    B. Perl
+C. Machine Language     D. COBOL
+$Who invented Java language ?
+A. Deniss Ritche  B. John Backus
+C. James Gosling  D. Grace Hopper
+$Which among following is responsible for "Traffic Directing" ?
+A. Bridge   B. Router
+C. Switch   D. Hub
+$Which among following is not a browser 
+A. Firefox  B. Casio
+C. Chrome   D. Opera
+$Which among following is considered a volatile memory ?
+A. CD-ROM   B. Hard Disk
+C. RAM      D. ROM
+$SQL is related with ?
+A. WAN      B. LAN
+C. Database D. Photoshop
+$LAN stands for ?
+A. Local Area Network   B. Leave All Network
+C. Least Area Network   D. Land Area Network
+$Find odd one ?
+A. Trojan   B. Bug
+C. Virus    D. Worm
+$Who invented Linux operating system ?
+A. Deniss Ritche   B. Steve Jobs
+C. Linus Torvalds D. Madam Curie
+$Which among following is not a type of printer ?
+A. Rubber Wheel   B. Inkjet
+C. Dot Matrix     D. Laser
+$WWW stands for ?
+A. Whole Wide Web B. World Wide Web
+C. Whole World Web      D. Web World Wide
+$Which among following organization is concerned with databases ?
+A. Oracle   B. Motorola
+C. Intel    D. Asus
+$What is full form of USB ?
+A. Unidirectional Serial Bus  B. Universal Standard Bus
+C. Unidirectional Standard Bus      D. Universal Serial Bus
+$What is the smallest addressable element of a display device ?
+A. Root     B. Shell
+C. Pixel    D. Dot
+$Which is odd one ?
+A. Hub      B. Switch
+C. Router   D. Packet
+$

@@ -1,0 +1,151 @@
+The first mechanical computer designed by Charles Babbage was called ?
+A. Abacus   B. Analytical Engine
+C. Calculator     D. Processor
+$C is ?
+A. A machine language   B. A third generation high level language
+C. An assembly language D. All of the above
+$Which of the following is an example of non volatile memory?
+A. VLSI     B. ROM
+C. RAM      D. LSI
+$CD–ROM is a kind of?
+A. Optical disk   B. Magneto–Optical disk
+C. Magnetic disk  D. None of these
+$A device that converts digital signals to analog signals is ?
+A. A modem  B. A packet
+C. A block  D. Both (A) and (B)
+$What is the primary requisite of a good computer programmer?
+A. Mathematical mind    B. Artistic mind
+C. Logical mind   D. Scientific knowledge
+$Which of the following is the most powerful type of computer ?
+A. Super–micro    B. Super computer
+C. Super conductor      D. Megaframe
+$The ------ is the administrative section of the computer system?
+A. Central Processing Unit    B. Control Unit
+C. Input Unit     D. Memory Unit
+$Find the odd man out.
+A. FTP      B. TCP
+C. POP      D. SAP
+$Which of the following is NOT operating system?
+A. Window NT      B. Java
+C. Dos      D. Unix
+$India’s first super computer is?
+A. Trisul   B. Param
+C. Flow solver    D. Agni
+$Find the odd man out.
+A. Google   B. Altavista
+C. Java     D. Lycos
+$A language for simulating models of business activity is?
+A. COBOL    B. DL
+C. GPSS     D. SPSS
+$Which of the following is an advantage to using fibre optics data transmission?
+A. Fast data transmission rate      B. Resistance to data theft
+C. Few transmission errors    D. Low noise levels
+$Coded entries which are used to gain access to a computer system are called ?
+A. Codewords      B. Security commands
+C. Entry codes    D. Entry codes
+$The errors that can be pointed out by the compiler are
+A. Semantic errors      B. Logical errors
+C. Internal errors      D. Syntax errors
+$What is the number of bit patterns provided by a 7 bit code?
+A. 64 B. 256
+C. 128      D. 512
+$VSNL stands for?
+A. Videsh Sanchar Nigam Ltd   B. Vigam System Nigar Ltd
+C. Very Soft Network Link     D. Very Small Network Link
+$Which is a single integrated circuit?
+A. Gate     B. CPU
+C. Mother Board   D. Chip
+$FPI stands for?
+A. Faults per inch      B. Frames per inch
+C. Figure per inch      D. Film per inch
+$The first movie released in 1982 with terrific computer animation and graphics was?
+A. Forbidden planet     B. Dark star
+C. Star wars      D. Tron
+$One byte is equivalent to?
+A. 4 bits   B. 32 bits
+C. 8 bits   D. 12 bits
+$Find the odd one out?
+A. ORACLE   B. INFORMIX
+C. C   D. SYBASE
+$A device that converts digital signals to analog signals is?
+A. A modem  B. A block
+C. A packet D. Both (A) and (B)
+$Find the odd man out.
+A. Coaxial cable  B. Microwaves
+C. Twisted pair wire    D. Optical fibre
+$The computer that is not considered as a portable computer is?
+A. Notebook computer    B. Laptop computer
+C. Mini computer   D. None of these
+$ISDN stands for?
+A. Integrated Service Digital Network     B. Integrated System Digital Network
+C. International Standard Digital Network D. International Subscriber Dialing Network
+$Full form of TCP is?
+A. Transmission control protocol    B. Transmission control program
+C. Totalling control program  D. Total control Protocol
+$Web pages are written using?
+A. URL      B. HTTP
+C. HTML     D. FTP
+$Find the odd one out?
+A. Touch screen   B. Printer
+C. Mouse    D. Keyboard
+$_____ is need to build dynamic web documents?
+A. HTML     B. Java
+C. CGI      D. All of the above
+$Compilers and Interpreters are themselves?
+A. Programs B. Compilers and Interpreters are themselves
+C. Codes    D. Mnemonics
+$Select the smallest memory size?
+A. Terabyte B. Kilobyte
+C. Gigabyte D. None of these
+$UNIVAC is an example of
+A. First generation computer  B. Second generation computer
+C. Third generation computer  D. Fourth generation computer
+$Which of the following is NOT operating system?
+A. Dos      B. Java
+C. Window NT      D. Unix
+$A terabyte comprises?
+A. 1024 megabyte  B. 1024 byte
+C. 1024 gigabyte  D. 1024 kilobyte
+$Which command combines the contents of one file with another?
+A. RESTORE  B. ADD
+C. APPEND   D. RENAME
+$Graphic interfaces were first used in a xerox product is called?
+A. Zeta LISP      B. Inter LISP
+C. Small talk     D. Ethernet
+$ROM is composed of
+A. Photoelectric cells  B. Magnetic cores
+C. Floppy disks   D. Microprocessors
+$The parity bit is added for the purpose of?
+A. Indexing B. Error detection
+C. Controlling    D. Coding
+$What is the full form of lC?
+A. Integrated circuit   B. Interface circuit
+C. Internet circuit     D. Interfaced circle
+$A process of preparing a floppy diskette for use is called _______________
+A. assembling     B. formatting
+C. parsing  D. translating
+$Which of the following refers to the memory in your computer ?
+A. RAM      B. DSL
+C. USB      D. LAN
+$Information travels between components on the motherboard through _________
+A. Flash memory   B. CMOS
+C. Bays     D. Buses
+$A program that enables you to perform calculations involving rows and columns of numbers is called as ______________
+A. window   B. spreadsheet program
+C. graphics package     D. word processor
+$What is a file ?
+A. A file is a collection of information that has been given a name and is stored in secondary memory B. Mile is a section of main storage used to store data
+C. A file is another name for floppy disk D. A file is the part of a program that is used to describe what the program should do
+$Applications are often referred to as ____________
+A. data files     B. System software
+C. executable files     D. the operating system
+$How many options does a binary choice offer ?
+A. One      B. Two
+C. Three    D. None
+$Data going into the computer is called __________
+A. Algorithm      B. Output
+C. Input    D. Calculations
+$How many values can be represented by a single byte ?
+A. 4  B. 8
+C. 16 D. 256
+$

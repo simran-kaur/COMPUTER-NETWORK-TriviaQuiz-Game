@@ -1,0 +1,151 @@
+What is full form of ANSI ?
+A. American National Standards Institute  B. Asia National School Institute
+C. American National School Institute     D. Asia National Standards Institute
+$LAN card is also known as ?
+A. Modem    B. Switch
+C. Hub      D. NIC
+$Computer security can be increased by using ?
+A. Antivirus      B. Password
+C. Firewall D. All of above
+$Firmware is stored in ?
+A. ROM      B. RAM
+C. Hard Disk      D. Cache
+$When a document is opened in computer it is temporarily stored in ?
+A. ROM      B. RAM
+C. Hard Disk      D. All of above
+$Set of instructions which instructs computer to perform certain task is called ?
+A. Assembler      B. Debugger
+C. Program  D. Flowchart
+$What is the meaning of FTP ?
+A. File Training Protocol     B. File Tracking Protocol
+C. File Transfer Protocol     D. File Transit Protocol
+$What is the meaning of MAC ?
+A. Main access control B. Media ample control
+C. Media access control D. Medium acesses control
+$Which of following is used to create table ?
+A. QCL      B. DCL
+C. DML      D. DDL
+$Which of following alphabet can not be part of a hexadecimal digit ?
+A. A  B. L
+C. F  D. E
+$A C program’s main body starts with?
+A. main()   B. end()
+C. string() D. str()
+$Which among following is considered as fastest memory ?
+A. External Hard Disk   B. RAM
+C. Cache    D. ROM
+$Which is the extension of a batch file ?
+A. .bat     B. .batch
+C. .bth     D. .exe
+$Which among following is smallest ?
+A. Gigabyte B. Kilobyte
+C. Megabyte D. TeraByte
+$Which of following is not malicious ?
+A. Trogan Horse   B. Driver
+C. Virus    D. Worm
+$By which key you can capture screen of current desktop ?
+A. Scrlk    B. SysRq
+C. Break    D. PrtScr
+$What is maximum digit we can use in octal system ?
+A. 5  B. 6
+C. 7  D. 8
+$In database table, what column represents ?
+A. Attributes     B. Index
+C. Entity   D. Relation
+$In which mode of transmission both communicating devides to transmit and receive data simultaneously ?
+A. Simplex  B. Full Duplex
+C. Half Duplex    D. None of above
+$Directory structure in windows is ?
+A. Flat     B. Hierarchical
+C. Both of above  D. None of above
+$What is access time ?
+A. Time required to locate and retrieve stored data   B. Time required to restore data
+C. Time required to copy and paste data   D. None of above
+$Data integrity refers to ?
+A. Centralization of Data     B. Security of Data
+C. Duplication of Data  D. Accuracy of Data
+$All memory units are expressed as powers of ?
+A. 2  B. 5
+C. 10 D. 20
+$Which type of software are device drivers
+A. Application software B. System software
+C. Utility software     D. These are type of hardware
+$Which of following allows two or more users to work on same time ?
+A. Multiprocessing      B. Multiprocessing
+C. Multithreading D. Multicapable
+$Which is not a function of operating system ?
+A. Process management   B. Internet Server management
+C. Memory Management    D. File Management
+$Which is not true about Random Access Memory ?
+A. Data can be read and written     B. Data can be accessed randomly
+C. Data is retained as long as the computer is powered on   D. Data stays permanently written
+$The set of wires, which carry information in a controlled manner, is known as ?
+A. Public bus     B. System Bus
+C. Control Bus    D. Private Bus
+$What is unit of speed of Super Computer ?
+A. KFLOPS   B. LFLOPS
+C. MFLOPS   D. GFLOPS
+$Which of the following software is interacts with the hardware ?
+A. Application software B. Interprator
+C. System software      D. Utility program
+$Mouse , trackball and joystick are the examples of ?
+A. Multimedia devices   B. Scanning devices
+C. Pointing devices     D. Storing devices
+$Secondary memory is also known as ?
+A. Second pass memory   B. Auxiliary memory
+C. Dynamic memory D. Temporary memory
+$Which of following is not an application software ?
+A. Photoshop      B. Winrar
+C. SAGE     D. Dreamwaever
+$Which of these are internal parts of computer ?
+A. Expansion Slots      B. Network card
+C. Cooling Fan    D. All of above
+$Modem is used mostly for ?
+A. Mostly for file system     B. A modern empty memory modules
+C. Connecting to internet     D. None of above
+$Which among following is not a low level language ?
+A. Machine Level Language     B. Assembly Language
+C. COBOL    D. None of above
+$Resolution of printer is measured in ?
+A. Megabits B. Inches
+C. Hertz    D. DPI
+$Which is responsible for performing modulation/demodulation ?
+A. Fiber    B. Router
+C. Modem    D. Coaxial Cable
+$In which generation of computers microprocessor was introduced ?
+A. First Generation     B. Second Generation
+C. Third Generation     D. Fourth Generation
+$Word length of a home computer is ?
+A. 4 bits   B. 8 bits
+C. 16 bits  D. 24 bits
+$Full form of RAM
+A. Random Access Memory B. Read access memory
+C. Randon allocate memory     D. Read allocate memory
+$What is full form of VDU ?
+A. Visible Display Unit B. Visual Display Unit
+C. Visual Diode Unit    D. Visible Diode Unit
+$What is full form of ALU ?
+A. arithmetic logic unit      B. arithmetic limit unit
+C. Algorithm logic unit D. Arithmetic lemma unit
+$Direct Access Storage Device is also referred as ?
+A. DAST     B. DASD
+C. DISD     D. None of above
+$What is meaning of LAT ?
+A. Large Area Transmission    B. Local Area Transport
+C. Large Area Transport D. Local Area Transmission
+$One million bytes of information are ?
+A. 1 MB     B. 1 GB
+C. 1 KB      D. None of above
+$What is LINUX ?
+A. Malware   B. Operating System
+C. Application Program   D. Firmware
+$What is the name of first super computer of India ?
+A. Saga 220 B. ENIAC
+C. PARAM 8000     D. PARAM 6000
+$Which is most common language used in web designing ?
+A. C   B. C++
+C. JAVA     D. HTML
+$Who is also known as Father of Computer ?
+A. Vint Cerf      B. Tim Berner Lee
+C. Charles Babbage      D. Steve Jobs 
+$
